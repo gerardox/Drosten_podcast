@@ -28,7 +28,7 @@ for (i in 1:length(pdfs)) {
   }, error=function(e){})
 }
 
-#remove pdf from non-podcast-transcripts (how to make a mask, corona-timeline)
+#remove pdf of non-podcast-transcripts (how to make a mask, corona-timeline)
 
 rm(pdf30)
 rm(pdf33)
